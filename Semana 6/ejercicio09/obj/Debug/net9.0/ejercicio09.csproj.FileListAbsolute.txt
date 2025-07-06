@@ -1,0 +1,5 @@
+D:\Documents\Estructura de datos\Estructura-de-datos\Semana 6\ejercicio09\obj\Debug\net9.0\ejercicio09.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Estructura de datos\Estructura-de-datos\Semana 6\ejercicio09\obj\Debug\net9.0\ejercicio09.AssemblyInfoInputs.cache
+D:\Documents\Estructura de datos\Estructura-de-datos\Semana 6\ejercicio09\obj\Debug\net9.0\ejercicio09.AssemblyInfo.cs
+D:\Documents\Estructura de datos\Estructura-de-datos\Semana 6\ejercicio09\obj\Debug\net9.0\ejercicio09.csproj.CoreCompileInputs.cache
+D:\Documents\Estructura de datos\Estructura-de-datos\Semana 6\ejercicio09\obj\Debug\net9.0\ejercicio09.sourcelink.json

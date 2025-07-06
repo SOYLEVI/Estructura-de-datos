@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "YYeLwSC26jg=",
+  "dgSpecHash": "CgO7cPrpSqw=",
   "success": true,
   "projectFilePath": "D:\\Documents\\Estructura de datos\\Estructura-de-datos\\Semana 6\\ejercicio09\\ejercicio09.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\tarqu\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\tarqu\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\tarqu\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\tarqu\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.36\\microsoft.netcore.app.host.win-x64.6.0.36.nupkg.sha512"
+  ],
   "logs": []
 }
