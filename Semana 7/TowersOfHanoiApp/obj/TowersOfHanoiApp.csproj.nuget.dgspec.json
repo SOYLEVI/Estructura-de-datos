@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Documents\\Estructura de datos\\Estructura-de-datos\\Semana 6\\ejercicio08\\ejercicio08.csproj": {}
+    "D:\\Documents\\Estructura de datos\\Estructura-de-datos\\Semana 7\\TowersOfHanoiApp\\TowersOfHanoiApp.csproj": {}
   },
   "projects": {
-    "D:\\Documents\\Estructura de datos\\Estructura-de-datos\\Semana 6\\ejercicio08\\ejercicio08.csproj": {
+    "D:\\Documents\\Estructura de datos\\Estructura-de-datos\\Semana 7\\TowersOfHanoiApp\\TowersOfHanoiApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Documents\\Estructura de datos\\Estructura-de-datos\\Semana 6\\ejercicio08\\ejercicio08.csproj",
-        "projectName": "ejercicio08",
-        "projectPath": "D:\\Documents\\Estructura de datos\\Estructura-de-datos\\Semana 6\\ejercicio08\\ejercicio08.csproj",
+        "projectUniqueName": "D:\\Documents\\Estructura de datos\\Estructura-de-datos\\Semana 7\\TowersOfHanoiApp\\TowersOfHanoiApp.csproj",
+        "projectName": "TowersOfHanoiApp",
+        "projectPath": "D:\\Documents\\Estructura de datos\\Estructura-de-datos\\Semana 7\\TowersOfHanoiApp\\TowersOfHanoiApp.csproj",
         "packagesPath": "C:\\Users\\tarqu\\.nuget\\packages\\",
-        "outputPath": "D:\\Documents\\Estructura de datos\\Estructura-de-datos\\Semana 6\\ejercicio08\\obj\\",
+        "outputPath": "D:\\Documents\\Estructura de datos\\Estructura-de-datos\\Semana 7\\TowersOfHanoiApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tarqu\\AppData\\Roaming\\NuGet\\NuGet.Config"

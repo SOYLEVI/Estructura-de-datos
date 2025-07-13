@@ -1,15 +1,15 @@
 ﻿// Programa.cs
 using System;
 
-namespace Ejercicio8
+namespace Ejercicio08
 {
     public class Programa
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("--- Ejercicio 8: Procesamiento de Datos Reales en Listas ---");
+            Console.WriteLine("--- Ejercicio 08: Procesamiento de Datos Reales en Listas ---");
 
-            ListaEnlazada listaPrincipal = new ListaEnlazada();
+            LinkedList listaPrincipal = new LinkedList();
             Console.Write("Ingrese la cantidad de datos a cargar en la lista principal: ");
             int n;
             while (!int.TryParse(Console.ReadLine(), out n) || n <= 0)
@@ -62,6 +62,10 @@ namespace Ejercicio8
 
             Console.WriteLine("\nPresione cualquier tecla para salir del ejercicio 08...");
             Console.ReadKey();
+        }
+
+        private class LinkedList
+        {
         }
     }
 }
