@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("atraccion")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("VacunacionCovid")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+268d918b5395838a8859ac1e90cf952d383e1a6b")]
-[assembly: System.Reflection.AssemblyProductAttribute("atraccion")]
-[assembly: System.Reflection.AssemblyTitleAttribute("atraccion")]
+[assembly: System.Reflection.AssemblyProductAttribute("VacunacionCovid")]
+[assembly: System.Reflection.AssemblyTitleAttribute("VacunacionCovid")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.
