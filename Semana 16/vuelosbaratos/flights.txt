@@ -1,0 +1,6 @@
+Quito,Guayaquil,LATAM,95.50
+Quito,Cuenca,Avianca,80.00
+Quito,Guayaquil,TAME,75.20
+Guayaquil,Cuenca,LATAM,65.00
+Cuenca,Quito,Avianca,90.00
+Guayaquil,Quito,TAME,85.00
